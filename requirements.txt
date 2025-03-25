@@ -4,7 +4,5 @@ pyromod
 pymongo
 dnspython
 aiohttp
-
+gunicorn
 humanize
-
-
