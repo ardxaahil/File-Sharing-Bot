@@ -6,3 +6,4 @@ dnspython
 aiohttp
 gunicorn
 humanize
+aiohttp
